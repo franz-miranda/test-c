@@ -1,0 +1,3 @@
+Paso 1: Compilar gcc AllTests.c CuTest.c TestStudent.c -o execute.out
+Paso 2: Ejecutar ./execute.out
+
